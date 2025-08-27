@@ -6,8 +6,8 @@ Created on Tue Jul  1 12:21:19 2025
 """
 import numpy as np
 import pandas as pd
-a=int(input("Enter the value of a:")
-b=int(input("Enter the value of b:")
+a=int(input("Enter the value of a:"))
+b=int(input("Enter the value of b:"))
 print("Value of a=",a)
 print("Value of b=",b)
 add=a+b
@@ -24,5 +24,6 @@ print("Result of divid=",divid)
 print("Result of remind=",remind)
 print("Result of expo=",expo)
 print("Result of fldiv=",fldiv)
+
 
 
